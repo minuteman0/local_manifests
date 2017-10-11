@@ -1,7 +1,7 @@
 <manifest>
-<project name="harry8242/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github" revision="o8.0"/>
-<project name="HassanSardar/kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github" revision="lineage-15.0"/>
-<project name="MoKee/android_vendor_lenovo_a6020" path="vendor/lenovo/A6020" remote="github" revision="mkn-mr1"/>
-<project name="MoKee/android_external_bson" path="external/bson" remote="github" revision="mkn-mr1"/>
-<project name="MoKee/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="mkn-mr1"/>
+  <project name="MoKee/android_device_lenovo_a6020" path="device/lenovo/A6020" remote="github" revision="mkn-mr1" />
+  <project name="LegendMaster/android_kernel_lenovo_msm8916-2" path="kernel/lenovo/msm8916" remote="github" revision="LA.BR.1.2.4_rb1.17" />
+  <project name="BlueReptile/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="cm-14.1" />
+  <project name="MoKee/android_external_bson" path="external/bson" remote="github" revision="mkn-mr1" />
+  <project name="MoKee/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="mkn-mr1" />
 </manifest>
