@@ -1,6 +1,6 @@
 <manifest>
-  <project name="minuteman0/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github" revision="cm-14.1" />
-  <project name="minuteman0/android_vendor_lenovo" path="vendor/lenovo/A6020" remote="github" revision="cm-14.1" />
+  <project name="minuteman0/android_device_lenovo_a6020" path="device/lenovo/a6020" remote="github" revision="cm-14.1" />
+  <project name="harry8242/android_vendor_lenovo" path="vendor/lenovo" remote="github" revision="cm-14.1" />
   <project name="harry8242/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
