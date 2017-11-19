@@ -1,1 +1,0 @@
-repo sync -c -j 3 --force-broken --force-sync --no-clone-bundle
