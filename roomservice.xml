@@ -1,14 +1,15 @@
 <manifest>
   
-<remote  name="github"
+<remote  name="github2"
 fetch="https://github.com/" />  
   
-<project name="minuteman0/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github" revision="8.x" />
-<project name="minuteman0/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="8.x" />
-<project name="minuteman0/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github" revision="8.x" />
+<project name="minuteman0/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github2" revision="8.1" />
+<project name="minuteman0/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github2" revision="8.x" />
+<project name="minuteman0/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github2" revision="lineage-15.0" />
+
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github2" revision="staging/lineage-15.1" /> 
   
 <!-- <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.0" /> -->
-  <!-- <project name="GZOSP/device_qcom_common" path="device/qcom/common" remote="github" revision="8.0" /> -->
   
 <!-- <project name="GZOSP/hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" remote="github" revision="8.0-caf-8916" />
 <project name="GZOSP/hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github" revision="8.0-caf-8916" />
