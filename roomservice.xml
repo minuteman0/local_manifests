@@ -4,8 +4,8 @@
 fetch="https://github.com/" />  
   
 <project name="minuteman0/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github2" revision="8.1" />
-<project name="boulzordev/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github2" revision="lineage-15.0" />
-<project name="minuteman0/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github2" revision="lineage-15.0" />
+<project name="minuteman0/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github2" revision="8.x" />
+<project name="minuteman0/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github2" revision="8.1" />
 <project name="minuteman0/android_device_qcom_common" path="device/qcom/common" remote="github2" revision="XOS-8.1" />   
 <project name="minuteman0/hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" remote="github2" revision="staging/oreo-mr1-caf-8916" />
 <project name="minuteman0/hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github2" revision="staging/oreo-mr1-caf-8916" />
